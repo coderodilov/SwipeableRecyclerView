@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Swipeable RecyclerView</string>
+    <string name="swipe_items_to_left">Swipe items to left</string>
+</resources>
